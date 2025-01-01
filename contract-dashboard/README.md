@@ -50,7 +50,6 @@ This will start the app at http://localhost:5173.
 
 **Dependencies**
 -- React 18.x
--- React Router DOM (if routing is needed)
 -- Tailwind CSS for styling
 -- @heroicons/react for icons
 -- Vite as the bundler (if you’re using Vite)
