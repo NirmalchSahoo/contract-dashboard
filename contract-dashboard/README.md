@@ -30,6 +30,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
 
+   https://github.com/NirmalchSahoo/contract-dashboard
+
 2. **Navigate to the project directory:**
 
    cd contract-dashboard
